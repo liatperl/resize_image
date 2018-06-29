@@ -1,0 +1,9 @@
+{
+  "name": "resize_image",
+  "version": "0.0.0",
+  "description": "resize_image",
+  "main": "app.js",
+  "author": {
+    "name": "lili"
+  }
+}
